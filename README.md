@@ -118,5 +118,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact Information
 - Website: [hyperparams.io](https://hyperparams.io/)
-- Email: lessio@hyperparams.io
+- Email: ilessio@hyperparams.io, develop@hyperparams.io
 - Whitepaper: [INSERT PAPER]
